@@ -16,7 +16,9 @@ Instalação
    - Preencher ProductName que consta em config.plist ("MacBookPro14,1")
    - Selecionar opção "Q. Quit"
 3. Atribuir letra à partição EFI do PenDrive com o MiniTool 
+
    > [!IMPORTANT]
-> Retirar e Colocar o Pendrive depois de criar usb bootável pelo balena
+   > Retirar e Colocar o Pendrive depois de criar usb bootável pelo balena
+
 4. Copiar EFI pronta para partição montada pelo Explorer++ (Executando como Administrador)
 5. Desatribuir letra à partição EFI do PenDrive
